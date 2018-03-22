@@ -2,7 +2,7 @@ my_group = []
 
 person_1 = {name: "Mathias", gender: "Male", age: 28}
 person_2 = {name: "Max", gender: "Male", age: 25}
-person_3 = {name: "Maria", gender: "Female", age: 22}
+person_3 = {name: "Maria", gender: "Female", age: 23}
 
 my_group = person_1, person_2, person_3
 
